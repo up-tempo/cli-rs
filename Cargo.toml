@@ -1,0 +1,10 @@
+[package]
+name = "ut-client-rs"
+version = "0.1.0"
+authors = ["Sumner Evans <sumner.evans98@gmail.com>"]
+
+[dependencies]
+notify-rust = "3.0"
+protobuf = "1.4.3"
+grpcio = "0.1.2"
+futures = "0.1.17"
