@@ -250,7 +250,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "ut-client-rs"
+name = "utcli-rs"
 version = "0.1.0"
 dependencies = [
  "futures 0.1.17 (registry+https://github.com/rust-lang/crates.io-index)",

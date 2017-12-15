@@ -27,8 +27,8 @@ fn main() {
     }
 
     Notification::new()
-        .summary("UpTempo")
-        .body("All You See is Christ (Live)\nSapphyre Live\nSapphyre")
+        .summary("All You See is Christ (Live)")
+        .body("Sapphyre Live\nSapphyre")
         .icon("/home/sumner/tmp/cover.png")
         .hint(Hint::Urgency(Urgency::Normal))
         .show()
